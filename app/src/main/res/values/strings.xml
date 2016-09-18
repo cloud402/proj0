@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UdacityProject0</string>
+    <string name="button1">popular movies</string>
+    <string name="button2">stock hawk</string>
+    <string name="button3">build it bigger</string>
+    <string name="button4">go ubiquitous</string>
+    <string name="button5">capstone</string>
+</resources>
